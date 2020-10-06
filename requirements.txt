@@ -1,5 +1,3 @@
 voila
-fastai>=0.0.11
-pillow<7
-packaging
+fastai
 ipywidgets
