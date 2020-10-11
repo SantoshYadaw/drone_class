@@ -7,4 +7,7 @@ pandas
 scikit_learn
 azure-cognitiveservices-search-imagesearch
 sentencepiece
+ipympl
+ipyvolume
+scipy
 voila
